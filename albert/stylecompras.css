@@ -1,0 +1,16 @@
+body {
+    
+    background-image: linear-gradient(#04135f, #050e36);
+    background-attachment: fixed;
+    margin: 0%; 
+}
+
+nav {
+    display: flex;
+    padding: 0% 20px;
+    height: 72px;
+    background-image: linear-gradient(53deg, #24c6d8, #4094f3);
+    background-attachment: fixed;
+    justify-content: space-between;
+    box-shadow: 5px 5px 10px rgb(20, 20, 20);
+}

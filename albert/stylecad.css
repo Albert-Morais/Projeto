@@ -1,0 +1,44 @@
+body {  
+    background-image: linear-gradient(#04135f, #050e36);
+    background-attachment: fixed;
+    margin: 0%; 
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    height: 72px;
+    box-sizing: border-box;
+    background-image: linear-gradient(53deg, #24c6d8, #4094f3);
+    justify-content: space-between;
+    box-shadow: 5px 5px 10px rgb(20, 20, 20);
+}
+
+h1 {
+    color: white;
+    top: 50%;   
+    left: 50%;
+    transform: translate(50%, 50%);
+}
+
+.cadastro {
+    height: 500px;
+    width: 350px;
+    background-color: #1f1c1c;
+}
+
+.infoenvio {
+    height: 500px;
+    width: 350px;
+    background-color: #1f1c1c;
+}
+
+input {
+    background-color: #726f6f;
+    color: black;
+    padding: 7px;
+    margin: 5px;
+    border: none;
+    outline: none;
+}
+
